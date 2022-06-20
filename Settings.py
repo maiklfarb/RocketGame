@@ -7,3 +7,8 @@ class Settings:
         self.colour = (0,0,0)
 
         self.speed = 2.0
+
+        self.bullet_speed = 3.0
+        self.bullet_wight = 3
+        self.bullet_height = 15
+        self.bullet_colour = (128, 102, 18)
